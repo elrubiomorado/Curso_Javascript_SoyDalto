@@ -24,3 +24,15 @@ let modificame = 10;
 modificame = 20;
 console.log(modificame); //El valor de modificame cambio por que lo modificamos despues de haberle asignado ya un valor
 
+//Crear varias variables en una sola linea
+let numero_1, numero_2, numero_3;
+// o
+let numero_uno = 1, numero_dos = 2, numero_tres = 3;
+
+//Promp
+//Sirve para pedirle datos al usuario
+prompt("Como te llamas"); //Si lo hacemos de esta manera no lo guardamos en ningun lado, para guardarlo necesitamos guardarlo en una variable
+let nombre_prompt = prompt("Cual es tu nombre");
+alert(nombre_prompt);
+//Tambien podemos concatenar el resulta escrito por el usuario a una cadena 
+alert("Hola " + nombre_prompt);
