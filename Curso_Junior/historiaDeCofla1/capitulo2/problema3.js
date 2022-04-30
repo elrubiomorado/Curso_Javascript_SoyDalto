@@ -48,7 +48,7 @@ if (opc == 1) {
 }else if (opc == 4) {
     digitos = prompt(`Cuantos digitos procesara tu calculadora?`);
     let resultado = 0;
-    for (let i = 1; i < digitos; i++) {
+    for (let i = 0; i < digitos; i++) {
         numeros = [];
         numeros[i] = parseInt(prompt(`Ingresa el digito: `));
         if(i == 1){
