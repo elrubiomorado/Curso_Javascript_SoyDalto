@@ -11,6 +11,8 @@ https://www.youtube.com/channel/UCtoo4_P6ilCj7jwa4FmA5lQ
 Curso del cual estoy aprendiendo JavaScript:
 Parte Nivel Junior
 https://www.youtube.com/watch?v=z95mZVUcJ-E&t=5s&ab_channel=SoyDalto
+Duracion:
+10 horas
 
 Parte Nivel Mid
 https://www.youtube.com/watch?v=xOinGb2MZSk&ab_channel=SoyDalto
