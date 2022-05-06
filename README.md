@@ -13,6 +13,8 @@ Parte Nivel Junior
 https://www.youtube.com/watch?v=z95mZVUcJ-E&t=5s&ab_channel=SoyDalto
 Duracion:
 10 horas
+Terminado:
+06/05/2022
 
 Parte Nivel Mid
 https://www.youtube.com/watch?v=xOinGb2MZSk&ab_channel=SoyDalto
