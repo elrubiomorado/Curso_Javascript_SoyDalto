@@ -18,6 +18,10 @@ Terminado:
 
 Parte Nivel Mid
 https://www.youtube.com/watch?v=xOinGb2MZSk&ab_channel=SoyDalto
+Duración:
+7:56:52 horas
+Empezado:
+07/05/2022
 
 Parte Nivel Master
 https://www.youtube.com/watch?v=EbMi1Qj4rVE&t=1s&ab_channel=SoyDalto
