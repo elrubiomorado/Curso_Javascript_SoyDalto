@@ -18,6 +18,7 @@ Terminado:
 
 Parte Nivel Mid
 https://www.youtube.com/watch?v=xOinGb2MZSk&ab_channel=SoyDalto
+
 Duración:
 7:56:52 horas
 Empezado:
