@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: hotpink;
+}
+.grid-container{
+    display: grid;
+    grid-template-rows:50px;
+    grid-template-columns: repeat(4, minmax(min-content,max-content));
+    grid-auto-rows: 50px;
+}
+.grid-item{
+    padding: 10px;
+    border: 1px solid hotpink;
+    margin: 5px;
+}
+.grid-item select{
+    background-color: black;
+    border: 1px solid hotpink;
+    color: hotpink;
+}
+.btn-confirmar{
+    padding: 9px 40px;
+    background-color: black;
+    color: hotpink;
+    border: 1px solid hotpink;
+    margin: 30px;
+    cursor: pointer;
+}
+.btn-confirmar:hover{
+    background-color: hotpink;
+    color: black;
+    border: 1px solid white;
+}
